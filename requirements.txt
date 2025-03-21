@@ -1,5 +1,5 @@
 matplotlib
-ultralytics==8.3.76
+git+https://github.com/VikramxD/ultralytics.git@main
 numpy==1.26.4
 opencv-python-headless
 dill
