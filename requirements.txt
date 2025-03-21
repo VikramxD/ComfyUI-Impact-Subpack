@@ -3,5 +3,4 @@ git+https://github.com/VikramxD/ultralytics.git@main
 numpy==1.26.4
 opencv-python-headless
 dill
-torch==2.5.1
-torchvision==0.20.1
+
